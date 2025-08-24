@@ -1,7 +1,7 @@
 
 ---
 
-# DeepKbhb: DeepKbhb: Context-Aware Prediction of Human Lysine β-Hydroxybutyrylation Sites
+# DeepKbhb: Context-Aware Prediction of Human Lysine β-Hydroxybutyrylation Sites
 
 ---
 
@@ -32,7 +32,7 @@ DeepKbhb/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/XingqiaoLin/AFP.git
+git clone https://github.com/DongDHD/DeepKbhb.git
 cd DeepKbhb
 ```
 ---
